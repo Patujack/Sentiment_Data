@@ -25,7 +25,7 @@ Tools and Technologies
 ===============
 This project will be implemented using the following tools and technologies:
 
-Python: An open-source programming language that is widely used in machine learning and NLP.
+**Python:** An open-source programming language that is widely used in machine learning and NLP.
 
 **Jupyter Notebook:** An interactive computational environment for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
 
