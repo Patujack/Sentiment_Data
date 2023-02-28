@@ -1,4 +1,4 @@
-## Sentiment Analysis Project using Python and Jupyter
+# Sentiment Analysis Project using Python and Jupyter
 This project involves building a sentiment analysis model that can accurately classify movie reviews as either positive or negative using natural language processing (NLP) techniques. The project will be implemented using Python programming language and the Jupyter Notebook environment.
 
 Project Overview
